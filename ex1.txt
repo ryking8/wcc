@@ -1,8 +1,2 @@
 Example 1
-dfafafa
-
-fasdfasdfa
-afsdfasfda
-sfsdfas
-sfasdfaf
-sfsdfs
+this is the solution
